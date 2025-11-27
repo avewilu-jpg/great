@@ -9,7 +9,7 @@
 	.st3{fill:#FFFFFF;fill-opacity:0.2;}
 	.st4{fill:none;stroke:#FFFFFF;stroke-opacity:0.3;}
 </style>
-<a xlink:href="/map/more-coffe" target="_blank">
+<a xlink:href="tc-con.webflow.io/map/more-coffe" target="_blank">
 <g id="кофе">
 	<path class="st0" d="M4293.3,462h-386.8V290.6h109.9V0.5h276.9V462z"/>
 	<path class="st1" d="M4065.3,236.5c-0.8-0.9-1.2-2-1.3-3.1c0-0.4,0-0.9,0-1.3v-11.9c0-4.2,0-8.5,0-12.7c0-0.9,0.2-1.8,0.5-2.7
@@ -784,4 +784,5 @@
 </g>
 
 </svg>
+
 
